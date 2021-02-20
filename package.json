@@ -1,0 +1,31 @@
+{
+  "name": "todoliszt",
+  "version": "1.0.0",
+  "description": "My To Do Liszt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhrizqiardi/todoliszt.git"
+  },
+  "keywords": [
+    "learn",
+    "to",
+    "do",
+    "list",
+    "node.js"
+  ],
+  "author": "Muhammad Rizqi Ardiansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhrizqiardi/todoliszt/issues"
+  },
+  "homepage": "https://github.com/muhrizqiardi/todoliszt#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
